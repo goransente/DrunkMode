@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drunk Mode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exitBtn">EXIT</string>
+    <string name="about">ABOUT</string>
+    <string name="setup">SETUP MODE</string>
+    <string name="title_activity_abt">abtActivity</string>
+    <string name="abtText">This Application is created by: Goran S and Filip T</string>
+</resources>
